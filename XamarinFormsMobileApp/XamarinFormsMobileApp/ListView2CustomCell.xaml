@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinFormsMobileApp.MarkupExtensions"
+             xmlns:CI="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             Title="ListView2 Custom Cell"
+             x:Class="XamarinFormsMobileApp.ListView2CustomCell">
+
+    <StackLayout>
+        <SearchBar Placeholder="Search Student" TextChanged="SearchBar_TextChanged" />
+
+        <ListView x:Name="myListView2" SeparatorColor="Gray" RowHeight="60" ItemSelected="myListView2_ItemSelected" IsPullToRefreshEnabled="True" Refreshing="myListView2_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal" Padding="0,5,0,5">
+                            <CI:CircleImage Source="{Binding ImageUrl}"/>
+                            <StackLayout HorizontalOptions="StartAndExpand" Spacing="0"  >
+                                <Label Text="{Binding Name}" FontSize="Medium" TextColor="Black" FontAttributes="Bold"/>
+                                <Label Text="{Binding Status}" />
+                            </StackLayout>
+                            <StackLayout Orientation="Horizontal" >
+                                <ImageButton x:Name="btnDelete" Source="https://w7.pngwing.com/pngs/29/45/png-transparent-delete-key-logo-button-text-rectangle-logo-thumbnail.png" WidthRequest="25" HeightRequest="25" BackgroundColor="Transparent"
+                                         Clicked="btnDelete_Clicked"/>
+                                <ImageButton x:Name="btnEdit" Source="https://png.pngtree.com/png-vector/20220606/ourmid/pngtree-writing-black-icon-png-png-image_4698425.png" WidthRequest="30" HeightRequest="30"  BackgroundColor="Transparent"
+                                         Clicked="btnEdit_Clicked"/>
+                            </StackLayout>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

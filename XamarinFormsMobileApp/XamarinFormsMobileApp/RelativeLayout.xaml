@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Relative Layout"
+             x:Class="XamarinFormsMobileApp.RelativeLayout">
+    <RelativeLayout>
+        <BoxView Color="Maroon" x:Name="header"
+                 RelativeLayout.WidthConstraint="{ConstraintExpression 
+                                                Type=RelativeToParent,
+                                                Property=Width,
+                                                Factor=1}"
+                 RelativeLayout.HeightConstraint="{ConstraintExpression
+                                                Type=RelativeToParent,
+                                                Property=Height,
+                                                Factor=.5}"/>
+        <BoxView Color="Gray"
+                  RelativeLayout.WidthConstraint="{ConstraintExpression 
+                                Type=RelativeToParent,
+                                Property=Width,
+                                Factor=1}"
+                  RelativeLayout.HeightConstraint="50"
+                 RelativeLayout.YConstraint="{ConstraintExpression
+            Type=RelativeToView,
+            ElementName=header,
+            Property=Height,
+            Constant=25}"/>
+    </RelativeLayout>
+</ContentPage>

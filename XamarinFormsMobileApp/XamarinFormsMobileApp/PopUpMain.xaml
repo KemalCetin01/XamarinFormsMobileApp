@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormsMobileApp.PopUpMain">
+        <StackLayout>
+            <Label Text="DISPLAY ALERT!"
+                FontSize="Medium"
+                HorizontalOptions="Center" />
+        <Button Text="Button1" x:Name="Button1" Clicked="Button_Clicked"/>
+        <Button Text="Button2" x:Name="Button2" Clicked="Button_Clicked_1"/>
+        <Label Text="DISPLAY ACTION SHEET"
+                   FontSize="Medium"
+                HorizontalOptions="Center" />
+        <Button Text="Button3" x:Name="Button3" Clicked="Button_Clicked_2"/>
+        <Label Text="DISPLAY A PROMPT"
+                   FontSize="Medium"
+                HorizontalOptions="Center" />
+        <Button Text="Button4" x:Name="Button4" Clicked="Button_Clicked_3"/>
+    </StackLayout>
+</ContentPage>

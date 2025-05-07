@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Activity Indicator"
+             x:Class="XamarinFormsMobileApp.ActivityIndicator">
+
+    <AbsoluteLayout>
+        <ActivityIndicator Color="Red" BindingContext="{x:Reference myImage}"
+                           IsRunning="{Binding Path=IsLoading}"
+                           AbsoluteLayout.LayoutBounds=".5,.5,100,100"
+                           AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        <Image x:Name="myImage" Source="https://wallpaperaccess.com/full/9070067.png" />
+        
+    </AbsoluteLayout>
+</ContentPage>

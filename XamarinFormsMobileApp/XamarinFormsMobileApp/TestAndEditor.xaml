@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Create Notify"
+             x:Class="XamarinFormsMobileApp.TestAndEditor">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Entry x:Name="name" Keyboard="Text" Placeholder="Name" ReturnType="Next" ClearButtonVisibility="WhileEditing"/>
+                <Entry x:Name="course" Keyboard="Text" Placeholder="Course" MaxLength="50" ReturnType="Next"/>
+                <Entry x:Name="contract" Keyboard="Telephone" Placeholder="Contract" MaxLength="12" ReturnType="Next"/>
+                <Entry x:Name="email" Keyboard="Email" Placeholder="Email" ReturnType="Next"/>
+                <Entry x:Name="password" IsPassword="True" Keyboard="Text" Placeholder="Password" ReturnType="Next"/>
+                <Editor x:Name="remarks" Keyboard="Text" Placeholder="Remarks" AutoSize="TextChanges"/>
+                <Switch x:Name="isActive" OnColor="Green" ThumbColor="Red" IsToggled="True"/>
+
+                <Label Text="Adding Dropdownlist"/>
+                <Picker Title="CEO"
+                    x:Name="CeopPicker"
+                    TitleColor="Maroon">
+                    <!--<Picker.Items>
+                    <x:String>Elon Musk</x:String>
+                    <x:String>Bill Gates</x:String>
+                    <x:String >Steve Jobs</x:String>
+                </Picker.Items>-->
+                </Picker>
+                <Label Text="Setting Picker's ItemSource Property"/>
+                <Picker Title="Company"
+                    x:Name="CompanyPicker"
+                    ItemDisplayBinding="{Binding Name}"
+                    SelectedIndexChanged="CompanyPicker_SelectedIndexChanged"
+                    TitleColor="Blue">
+                    <!--<Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>Tesla</x:String>
+                        <x:String>Microsoft</x:String>
+                        <x:String>Apple</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>-->
+                </Picker>
+                <Image x:Name="Logo"
+                   HeightRequest="400"
+                     WidthRequest="400"/>
+                <Label x:Name="lblDescription"/>
+                <Button x:Name="btnSave" Text="Kaydet" Clicked="btnSave_Clicked"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

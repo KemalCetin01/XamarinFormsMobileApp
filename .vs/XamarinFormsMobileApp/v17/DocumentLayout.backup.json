@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\helpers\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\helpers\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\employeedetail.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\employeedetail.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\employeedetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\employeedetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 41,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T11:07:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:53:06.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T08:57:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLLiteCRUD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:43:41.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLLiteCRUD.xaml",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-06T08:57:01.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0504ff91-9d61-11d0-a794-00a0c9110051}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Greet Page"
+             x:Class="XamarinFormsMobileApp.GreetPage">
+    <StackLayout Background="red"
+                 VerticalOptions="Center"
+                 HorizontalOptions="Center"
+                 Orientation="Horizontal"
+                 Padding="20"
+                 Spacing="20">
+    <Button Text="Button1"/>
+    <Button Text="Button2"/>
+    <Button Text="Button3"/>
+        <StackLayout Background="yellow">
+
+            <Button Text="Button4"/>
+            <Button Text="Button5"/>
+        </StackLayout>
+        
+        
+    </StackLayout>
+
+</ContentPage>

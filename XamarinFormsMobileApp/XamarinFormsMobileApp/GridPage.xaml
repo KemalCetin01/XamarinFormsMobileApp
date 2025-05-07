@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormsMobileApp.GridPage">
+
+    <Grid BackgroundColor="Green"
+>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="150"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="75"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0"  Text="Label 1" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="0"  Text="Label 2" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="0"  Text="Label 3" BackgroundColor="White"/>
+        <Label Grid.Row="3" Grid.Column="0"  Text="Label 4" BackgroundColor="White" 
+               Grid.ColumnSpan="3"/> <!--span kapladığı alan-->
+        
+        <Label Grid.Row="0" Grid.Column="1"  Text="Label 5" BackgroundColor="White"/>
+        <Label Grid.Row="1" Grid.Column="1"  Text="Label 6" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="1"  Text="Label 7" BackgroundColor="White"/>
+        <!--<Label Grid.Row="3" Grid.Column="1"  Text="Label 8" BackgroundColor="White"/>-->
+        <Label Grid.Row="0" Grid.Column="2"  Text="Label 9" BackgroundColor="White"
+               Grid.RowSpan="3"/>
+        <!--<Label Grid.Row="1" Grid.Column="2"  Text="Label 10" BackgroundColor="White"/>
+        <Label Grid.Row="2" Grid.Column="2"  Text="Label 11" BackgroundColor="White"/>-->
+        <!--<Label Grid.Row="3" Grid.Column="2"  Text="Label 12" BackgroundColor="White"/>-->
+        
+
+    </Grid>
+</ContentPage>

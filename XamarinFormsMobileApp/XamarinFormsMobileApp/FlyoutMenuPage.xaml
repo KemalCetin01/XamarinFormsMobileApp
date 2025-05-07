@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XamarinFormsMobileApp"
+             Title="FlyoutMenu"
+             x:Class="XamarinFormsMobileApp.FlyoutMenuPage">
+    <StackLayout>
+        <ListView x:Name="listview" x:FieldModifier="public">
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:FlyoutItemPage}">
+                    <local:FlyoutItemPage Title="SQL Lite CRUD" IconSource="home.png" TargetPage="{x:Type local:SQLLiteCRUD}"/>
+                    <local:FlyoutItemPage Title="PopUpMain Page" IconSource="home.png" TargetPage="{x:Type local:PopUpMain}"/>
+                    <local:FlyoutItemPage Title="Notify List" IconSource="home.png" TargetPage="{x:Type local:NotifyList}"/>
+                    <local:FlyoutItemPage Title="TestAndEditor" IconSource="home.png" TargetPage="{x:Type local:TestAndEditor}"/>
+                    <local:FlyoutItemPage Title="Toolbar Item" IconSource="home.png" TargetPage="{x:Type local:ToolbarItem}"/>
+                    <local:FlyoutItemPage Title="Modal Page 1" IconSource="home.png" TargetPage="{x:Type local:ModalPageMainPage}"/>
+                    <local:FlyoutItemPage Title="Tabbed Page1" IconSource="home.png" TargetPage="{x:Type local:TabbedPage1}"/>
+                    <local:FlyoutItemPage Title="ListView2 Custom Cell" IconSource="home.png" TargetPage="{x:Type local:ListView2CustomCell}"/>
+                    <local:FlyoutItemPage Title="Carousel Page 1" IconSource="refresh.png" TargetPage="{Type local:CarouselPage1}"/>
+                    <local:FlyoutItemPage Title="Absolute Layout" IconSource="search.png" TargetPage="{x:Type local:AbsoluteLayout}"/>
+                    <local:FlyoutItemPage Title="Activity Indicator" IconSource="detail.png" TargetPage="{x:Type local:ActivityIndicator}"/>
+                    <local:FlyoutItemPage Title="Greet Page" IconSource="refresh.png" TargetPage="{Type local:GreetPage}"/>
+                    <local:FlyoutItemPage Title="Grid Page" IconSource="refresh.png" TargetPage="{Type local:GridPage}"/>
+                    <local:FlyoutItemPage Title="Image Page" IconSource="refresh.png" TargetPage="{Type local:ImagePage}"/>
+                    <local:FlyoutItemPage Title="Relative Layout" IconSource="refresh.png" TargetPage="{Type local:RelativeLayout}"/>
+                    <local:FlyoutItemPage Title="Stack Layout 1" IconSource="refresh.png" TargetPage="{Type local:StackLayout1}"/>
+                    <local:FlyoutItemPage Title="Stack Layout 2" IconSource="refresh.png" TargetPage="{Type local:StackLayout2}"/>
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="33"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Image Source="{Binding IconSource}"/>
+                            <Label Grid.Column="1" Text="{Binding Title}"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

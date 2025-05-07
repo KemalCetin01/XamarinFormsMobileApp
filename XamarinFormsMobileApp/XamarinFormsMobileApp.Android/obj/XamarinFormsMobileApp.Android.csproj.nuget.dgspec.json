@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.Android\\XamarinFormsMobileApp.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.Android\\XamarinFormsMobileApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.Android\\XamarinFormsMobileApp.Android.csproj",
+        "projectName": "XamarinFormsMobileApp.Android",
+        "projectPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.Android\\XamarinFormsMobileApp.Android.csproj",
+        "packagesPath": "C:\\Users\\09373118\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\09373118\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\09373118\\Source\\Repos\\MS Project Nugets": {},
+          "C:\\Users\\09373118\\Source\\Repos\\OperationalLeasing.API\\KSLease.OL": {},
+          "C:\\Users\\09373118\\Source\\Repos\\nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {
+              "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj": {
+                "projectPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj",
+        "projectName": "XamarinFormsMobileApp",
+        "projectPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj",
+        "packagesPath": "C:\\Users\\09373118\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\09373118\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\09373118\\Source\\Repos\\MS Project Nugets": {},
+          "C:\\Users\\09373118\\Source\\Repos\\OperationalLeasing.API\\KSLease.OL": {},
+          "C:\\Users\\09373118\\Source\\Repos\\nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugins.Forms.ImageCircle": {
+              "target": "Package",
+              "version": "[3.0.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.9.172, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.203, 9.0.203]"
+            }
+          ],
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
