@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XamarinFormsMobileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+128c34f23f28204efad8866b8b887e54c7eb1739")]
 [assembly: System.Reflection.AssemblyProductAttribute("XamarinFormsMobileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XamarinFormsMobileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,6 +17,10 @@ namespace XamarinFormsMobileApp
         public TestAndEditor()
         {
             InitializeComponent();
+            lblNotifyType.IsVisible = true;
+            lblNotifyType.Text = $"Seçilen Bildirim Tipi: {rbEmail.Value}";
+            #region Test Items
+
             CeopPicker.Items.Add("Elon Musk");
             CeopPicker.Items.Add("Bill Gates");
             CeopPicker.Items.Add("Steve Jobs");
@@ -42,16 +46,23 @@ namespace XamarinFormsMobileApp
             });
 
             CompanyPicker.ItemsSource = companyList;
+            #endregion
+           
         }
 
         private async void btnSave_Clicked(object sender, EventArgs e)
         {
+            DateTime selectedDate = datePicker.Date;
+            TimeSpan selectedTime = timePicker.Time;
+
+            DateTime combinedDateTime = selectedDate.Date + selectedTime;
+
             NotifyDetail notifyDetail = new NotifyDetail()
             {
-                Name = name.Text,
-                Course = course.Text,
+                Name = txtTo.Text,
+                Course = txtCC.Text,
                 EmailAdd = email.Text,
-                MobileNumber = contract.Text,
+                MobileNumber = txtTelephone.Text,
                 Remarks = remarks.Text,
             };
 
@@ -65,6 +76,16 @@ namespace XamarinFormsMobileApp
             var selectedCompany = CompanyPicker.SelectedIndex;
             Logo.Source=companyList[selectedCompany].Logo;
             lblDescription.Text = companyList[selectedCompany].Description;
+        }
+
+        private void rbNotifyType_CheckedChanged(object sender, CheckedChangedEventArgs e)
+        {
+            var radio = sender as RadioButton;
+
+            if (radio != null && e.Value)
+            {
+                lblNotifyType.Text = $"Seçilen Bildirim Tipi: {radio.Value}";
+            }
         }
     }
 }

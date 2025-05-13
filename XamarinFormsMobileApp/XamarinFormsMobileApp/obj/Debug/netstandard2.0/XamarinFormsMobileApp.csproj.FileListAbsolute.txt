@@ -38,3 +38,4 @@ C:\Users\09373118\Source\Repos\XamarinFormsMobileApp\XamarinFormsMobileApp\Xamar
 C:\Users\09373118\Source\Repos\XamarinFormsMobileApp\XamarinFormsMobileApp\XamarinFormsMobileApp\obj\Debug\netstandard2.0\PopUpMain.xaml.g.cs
 C:\Users\09373118\Source\Repos\XamarinFormsMobileApp\XamarinFormsMobileApp\XamarinFormsMobileApp\obj\Debug\netstandard2.0\EmployeeDetail.xaml.g.cs
 C:\Users\09373118\Source\Repos\XamarinFormsMobileApp\XamarinFormsMobileApp\XamarinFormsMobileApp\obj\Debug\netstandard2.0\SQLLiteCRUD.xaml.g.cs
+C:\Users\09373118\Source\Repos\XamarinFormsMobileApp\XamarinFormsMobileApp\XamarinFormsMobileApp\obj\Debug\netstandard2.0\XamarinFormsMobileApp.sourcelink.json

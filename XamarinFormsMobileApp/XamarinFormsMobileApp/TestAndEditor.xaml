@@ -1,14 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             Title="Create Notify"
+             Title="Text and Editor"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
              x:Class="XamarinFormsMobileApp.TestAndEditor">
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Entry x:Name="name" Keyboard="Text" Placeholder="Name" ReturnType="Next" ClearButtonVisibility="WhileEditing"/>
-                <Entry x:Name="course" Keyboard="Text" Placeholder="Course" MaxLength="50" ReturnType="Next"/>
-                <Entry x:Name="contract" Keyboard="Telephone" Placeholder="Contract" MaxLength="12" ReturnType="Next"/>
+                <StackLayout x:Name="slNotifyTypes" Orientation="Horizontal" VerticalOptions="FillAndExpand" >
+
+                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                        <Image Source="mail" HeightRequest="24" WidthRequest="24" Margin="20,0,0,0"/>
+                        <RadioButton x:Name="rbEmail" Value="E-Mail" GroupName="rdNotifyTypes" IsChecked="True" CheckedChanged="rbNotifyType_CheckedChanged"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" >
+                        <Image Source="whatsapp" HeightRequest="24" WidthRequest="24" Margin="20,0,0,0"/>
+                        <RadioButton x:Name="rbWhatsapp" Value="Whatsapp" GroupName="rdNotifyTypes" CheckedChanged="rbNotifyType_CheckedChanged"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand">
+                        <Image Source="teams" HeightRequest="24" WidthRequest="24" Margin="20,0,0,0"/>
+                        <RadioButton x:Name="rbTeams" Value="Teams" GroupName="rdNotifyTypes" CheckedChanged="rbNotifyType_CheckedChanged"/>
+                    </StackLayout>
+                </StackLayout>
+                <Frame CornerRadius="5"
+                       Padding="10"
+                       BorderColor="Gray"
+                       HasShadow="False" HorizontalOptions="Fill"
+                       Margin="10">
+                    <StackLayout Orientation="Horizontal" VerticalOptions="Center" >
+                        <Label x:Name="lblNotifyType" TextColor="red" FontAttributes="Bold"  />
+                    </StackLayout>
+                </Frame>
+                <Entry x:Name="txtTo" Keyboard="Email" Placeholder="To" ReturnType="Next" ClearButtonVisibility="WhileEditing" />
+                <Entry x:Name="txtCC" Keyboard="Email" Placeholder="CC" MaxLength="100" ReturnType="Next"/>
+                <Entry x:Name="txtSubject" Keyboard="Text" Placeholder="Konu" MaxLength="100" ReturnType="Next"/>
+                <Entry x:Name="txtMessage" Keyboard="Text" Placeholder="Mesaj" MaxLength="40000" ReturnType="Next"/>
+                <Entry x:Name="txtTelephone" Keyboard="Telephone" Placeholder="Contract" MaxLength="12" ReturnType="Next"/>
+                <StackLayout Padding="10" Spacing="10" Orientation="Vertical">
+
+                    <Label Text="Gönderim Zamanı" FontAttributes="Bold" TextColor="Gray" FontSize="18" VerticalOptions="Center"  />
+
+                    <StackLayout Orientation="Horizontal" Spacing="20" VerticalOptions="Center">
+                        <!-- Tarih Seçici -->
+                        <DatePicker x:Name="datePicker"
+                    Format="dd.MM.yyyy"
+                    MinimumDate="{x:Static sys:DateTime.Today}" />
+
+                        <!-- Saat Seçici -->
+                        <TimePicker x:Name="timePicker"
+                    Time="12:00" />
+                    </StackLayout>
+
+                </StackLayout>
+                <StackLayout x:Name="stOtoManuel" Orientation="Horizontal" VerticalOptions="FillAndExpand" >
+
+                    <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand">
+                        <StackLayout Orientation="Horizontal" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                            <RadioButton x:Name="rbOtoSend" Content="Otomatik Gönderim" Value="Otomatik Gönderim" GroupName="rdOtoManuel" IsChecked="True" HorizontalOptions="EndAndExpand" CheckedChanged="rbNotifyType_CheckedChanged"/>
+                            <Image Source="mail" HeightRequest="24" WidthRequest="24" Margin="20,0,0,0"/>
+                        </StackLayout>
+                    </StackLayout>
+                </StackLayout>
                 <Entry x:Name="email" Keyboard="Email" Placeholder="Email" ReturnType="Next"/>
                 <Entry x:Name="password" IsPassword="True" Keyboard="Text" Placeholder="Password" ReturnType="Next"/>
                 <Editor x:Name="remarks" Keyboard="Text" Placeholder="Remarks" AutoSize="TextChanges"/>

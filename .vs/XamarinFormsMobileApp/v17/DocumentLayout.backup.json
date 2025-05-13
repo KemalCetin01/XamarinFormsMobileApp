@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\testandeditor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\testandeditor.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\testandeditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\testandeditor.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\circleimage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\circleimage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\notifylist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\notifylist.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\notifylist.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\notifylist.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\helpers\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\helpers\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|solutionrelative:xamarinformsmobileapp\\xamarinformsmobileapp\\sqllitecrud.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552248B2-94CE-47C1-91A2-92376608EF9B}|XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp.csproj|c:\\users\\09373118\\source\\repos\\xamarinformsmobileapp\\xamarinformsmobileapp\\xamarinformsmobileapp\\employeedetail.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
@@ -30,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 165,
-          "SelectedChildIndex": 41,
+          "SelectedChildIndex": 39,
           "Children": [
             {
               "$type": "Bookmark",
@@ -186,7 +210,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircleImage.xaml",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\CircleImage.xaml",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\CircleImage.xaml",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\CircleImage.xaml",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\CircleImage.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T19:18:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestAndEditor.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\obj\\Debug\\netstandard2.0\\TestAndEditor.xaml.g.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAArwFoAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:17:55.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestAndEditor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:22:22.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TestAndEditor.xaml",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\TestAndEditor.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T18:05:56.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotifyList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:05:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotifyList.xaml",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\NotifyList.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-13T18:05:23.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLLiteCRUD.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:43:41.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SQLiteHelper.cs",
               "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
               "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
@@ -194,12 +309,11 @@
               "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\Helpers\\SQLiteHelper.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T11:07:23.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T11:07:23.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "EmployeeDetail.xaml.cs",
               "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
               "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
@@ -207,12 +321,11 @@
               "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T10:53:06.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T10:53:06.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "EmployeeDetail.xaml",
               "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
               "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
@@ -220,25 +333,11 @@
               "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\EmployeeDetail.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-06T08:57:49.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T08:57:49.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLLiteCRUD.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
-              "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
-              "ToolTip": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
-              "RelativeToolTip": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:43:41.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SQLLiteCRUD.xaml",
               "DocumentMoniker": "C:\\Users\\09373118\\Source\\Repos\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",
               "RelativeDocumentMoniker": "XamarinFormsMobileApp\\XamarinFormsMobileApp\\SQLLiteCRUD.xaml",

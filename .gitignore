@@ -1,0 +1,91 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userprefs
+*.suo
+*.csproj.user
+
+# Mono Auto Generated Files
+TestResult.xml
+*.pidb
+*.userprefs
+
+# Xamarin Studio
+*.userprefs
+
+# OS generated files
+.DS_Store
+*.swp
+*.swo
+*.swn
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Visual Studio
+.vs/
+.vscode/
+*.dbmdl
+*.bak
+*.backup
+*.log
+*.tlog
+*.pdb
+*.sdf
+*.cache
+*.ncb
+*.opensdf
+*.VC.db
+
+# Xamarin Mac/iOS/Android
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.xarchive
+*.xcuserstate
+*.xcworkspace
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# UWP
+AppPackages/
+BundleArtifacts/
+Package.appxmanifest.bak
+*.psess
+*.vsp
+
+# Workbooks
+*.workbook
+
+# Backup & temporary
+*.tmp
+*.bak
+*.orig
+*.tmp_proj
+*.tmp_files
+
+# Exclude environment-specific settings
+.env
